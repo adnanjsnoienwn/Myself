@@ -1,0 +1,14 @@
+.none{
+    position: relative;
+    left: 41%;
+    width: 50%;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}

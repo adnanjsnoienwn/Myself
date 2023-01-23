@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    background-color: beige;
+}
+.top-container{
+    background-color: lightskyblue;
+    margin: 0;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+
+}
+p{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.A{
+    position: relative;
+    left: 75%;
+    top:20px;
+}
+.B{
+    position: absolute;
+    top: 115x;
+    left: 100px;
+}
+.C{
+    position: relative;
+    left: 33%;
+
+}
+.myphoto{
+    position: relative;
+    left: 40%;
+    display:grid;
+}
+h2{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+.I{
+    position: relative;
+
+}
+.skill{
+    position: relative;
+    right: 46%;
+    display: grid;
+}
+#id{
+    position: relative;
+    left:47%;
+    display: grid;
+}
+#Skillimg{
+    position: relative;
+    left: 36%;
+}
+#designinfo{
+    text-align: center;
+   
+}
+h3{
+    text-align: center;
+}
+.running{
+    position: relative;
+    left: 41.5%;
+}
+h4{
+    text-align: center;
+}
+a{
+    position: relative;
+    left: 47%;
+}
+table{
+    position: relative;
+    left: 46%;
+    top:35px;
+}
+.bottom{
+    background-color: blanchedalmond;
+    margin: 0;
+    position: relative;
+    top:0;
+
+}
+.middle{
+    background-color: aquamarine;
+    margin: 0;
+    position: relative;
+    top:0;
+}
